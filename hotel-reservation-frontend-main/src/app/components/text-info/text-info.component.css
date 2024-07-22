@@ -1,0 +1,9 @@
+.container {
+    width: auto;
+    padding: 0 1px;
+    margin: 0 250px;
+}
+
+.text-right {
+    text-align: center;
+}
